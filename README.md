@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1642-water-bottles) |
 ## Bit Manipulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
+| [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
