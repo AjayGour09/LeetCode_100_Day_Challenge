@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1642-water-bottles) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
