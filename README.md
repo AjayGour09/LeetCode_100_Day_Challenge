@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
