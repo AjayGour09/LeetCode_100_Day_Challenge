@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1236-n-th-tribonacci-number) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -23,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -65,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
