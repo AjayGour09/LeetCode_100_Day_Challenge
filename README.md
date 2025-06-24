@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
