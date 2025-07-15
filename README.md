@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1127-last-stone-weight) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0334-increasing-triplet-subsequence) |
+| [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
