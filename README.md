@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
 ## Quickselect
 |  |
