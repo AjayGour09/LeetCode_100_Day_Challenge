@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0443-string-compression) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
 | ------- |
