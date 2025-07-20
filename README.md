@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0443-string-compression) |
+| [1542-consecutive-characters](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1542-consecutive-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
