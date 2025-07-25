@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1542-consecutive-characters](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1542-consecutive-characters) |
