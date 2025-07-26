@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1677-matrix-diagonal-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
