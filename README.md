@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1642-water-bottles) |
 ## Heap (Priority Queue)
 |  |
@@ -207,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
