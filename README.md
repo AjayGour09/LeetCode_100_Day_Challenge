@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0075-sort-colors) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1677-matrix-diagonal-sum) |
