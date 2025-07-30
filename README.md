@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0917-boats-to-save-people) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1677-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
