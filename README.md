@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1642-water-bottles) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -231,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
