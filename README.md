@@ -233,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0328-odd-even-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
