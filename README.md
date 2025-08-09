@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0319-bulb-switcher) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/1642-water-bottles) |
 ## Heap (Priority Queue)
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AjayGour09/LeetCode_100_Day_Challenge/tree/master/0179-largest-number) |
